@@ -1,0 +1,9 @@
+env1
+create_env.sh
+create_env.txt
+__pycache__
+archive
+*workspace
+.ipynb_checkpoints
+notes*
+.DS_Store
